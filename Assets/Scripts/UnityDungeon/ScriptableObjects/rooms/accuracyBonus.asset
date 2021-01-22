@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e65ad8ddd68b334aae0d8535941885a, type: 3}
+  m_Name: accuracyBonus
+  m_EditorClassIdentifier: 
+  leftRoom: {fileID: 11400000, guid: 7ff0ceba58c947e4f9d7a9297627d724, type: 2}
+  rightRoom: {fileID: 11400000, guid: 7ff0ceba58c947e4f9d7a9297627d724, type: 2}
+  oponent: {fileID: 0}
+  description: You found something nice ! You can now see in the dark are are able
+    to touch more frequently your opponent
+  accuracyBoost: 0.4
+  hpBoost: 0
+  intelligenceBoost: 0
